@@ -1,2 +1,4 @@
 # hello_world
-This is my first repository.
+Hi!
+  I'm a student of BIT.Nice to meet you.
+  My codes has been updated,so thy can run faster!
